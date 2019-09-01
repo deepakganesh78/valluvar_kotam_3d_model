@@ -6,9 +6,9 @@ The game allows players to move in first person view, interact with sign boards 
 
 
 ## Softwares Used:
-#### 1. Blender 
+1. Blender 
 (for modeling all the structures)
-#### 2. Unreal Engine 
+2. Unreal Engine 
 (for making the first person game with assets formed earlier in blender)
 
 
