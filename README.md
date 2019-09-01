@@ -9,4 +9,4 @@ The game allows players to move in first person view, interact with sign boards 
 #### 2. Unreal Engine(for making the first person game with assets formed earlier in blender)
 
 ### Run
-To run the above game/app on your laptop/pc, no additional softwares or packages need to be installed. Just clone the repository to your device and just run "
+To run the above game/app on your laptop/pc, no additional softwares or packages need to be installed. Just clone the repository to your device and just run "Valluvar Kottam.exe" and you're good to go!
